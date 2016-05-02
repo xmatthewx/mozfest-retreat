@@ -1,0 +1,10 @@
+header nav { 
+	color:white;
+	background:rgb(217,63,95); 
+}
+
+#filter-form input {
+	border:1px solid #ccc;
+	padding:1px;
+	font-size:2em;
+}
