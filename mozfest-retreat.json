@@ -1,0 +1,373 @@
+{
+    "sessions": [
+        {
+            "category": "Food", 
+            "day": "Thursday", 
+            "description": "", 
+            "facilitator_array": [
+                "TBD"
+            ], 
+            "facilitators": "Chef", 
+            "id": "1", 
+            "link": "", 
+            "location": "Betahaus ­ Innovation room", 
+            "start": "10:00", 
+            "tags": "", 
+            "timeblock": "thursday-morning", 
+            "title": "­Breakfast"
+        },
+        {
+            "category": "Sessions", 
+            "day": "Thursday", 
+            "description": "", 
+            "facilitator_array": [
+                "TBD"
+            ], 
+            "facilitators": "TBD", 
+            "id": "2", 
+            "link": "", 
+            "location": "TBD", 
+            "start": "11:00", 
+            "tags": "", 
+            "timeblock": "thursday-morning", 
+            "title": "­Morning session"
+        },
+        {
+            "category": "Food", 
+            "day": "Thursday", 
+            "description": "", 
+            "facilitator_array": [
+                "TBD"
+            ], 
+            "facilitators": "Chef", 
+            "id": "3", 
+            "link": "", 
+            "location": "TBD", 
+            "start": "13:00", 
+            "tags": "", 
+            "timeblock": "thursday-afternoon", 
+            "title": "­Catered lunch"
+        },
+        {
+            "category": "Sessions", 
+            "day": "Thursday", 
+            "description": "", 
+            "facilitator_array": [
+                "TBD"
+            ], 
+            "facilitators": "TBD", 
+            "id": "4", 
+            "link": "", 
+            "location": "TBD", 
+            "start": "14:00", 
+            "tags": "", 
+            "timeblock": "thursday-afternoon", 
+            "title": "­Afternoon sessions"
+        },
+        {
+            "category": "Food", 
+            "day": "Thursday", 
+            "description": "", 
+            "facilitator_array": [
+                "TBD"
+            ], 
+            "facilitators": "Chef", 
+            "id": "5", 
+            "link": "", 
+            "location": "Vabrique", 
+            "start": "18:30", 
+            "tags": "", 
+            "timeblock": "thursday-evening", 
+            "title": "­Dinner"
+        },
+        {
+            "category": "Social", 
+            "day": "Thursday", 
+            "description": "", 
+            "facilitator_array": [
+                "TBD"
+            ], 
+            "facilitators": "TBD", 
+            "id": "6", 
+            "link": "", 
+            "location": "TBD", 
+            "start": "19:30", 
+            "tags": "", 
+            "timeblock": "thursday-evening", 
+            "title": "­Evening events (optional)"
+        },
+        {
+            "category": "Food", 
+            "day": "Friday", 
+            "description": "", 
+            "facilitator_array": [
+                "TBD"
+            ], 
+            "facilitators": "Chef", 
+            "id": "7", 
+            "link": "", 
+            "location": "Betahaus Cafe", 
+            "start": "09:00", 
+            "tags": "", 
+            "timeblock": "friday-morning", 
+            "title": "­Breakfast"
+        },
+        {
+            "category": "Sessions", 
+            "day": "Friday", 
+            "description": "", 
+            "facilitator_array": [
+                "TBD"
+            ], 
+            "facilitators": "TBD", 
+            "id": "8", 
+            "link": "", 
+            "location": "TBD", 
+            "start": "10:00", 
+            "tags": "", 
+            "timeblock": "friday-morning", 
+            "title": "­Morning sessions"
+        },
+        {
+            "category": "Food", 
+            "day": "Friday", 
+            "description": "", 
+            "facilitator_array": [
+                "TBD"
+            ], 
+            "facilitators": "Chef", 
+            "id": "9", 
+            "link": "", 
+            "location": "TBD", 
+            "start": "13:00", 
+            "tags": "", 
+            "timeblock": "friday-afternoon", 
+            "title": "­Catered lunch"
+        },
+        {
+            "category": "Sessions", 
+            "day": "Friday", 
+            "description": "", 
+            "facilitator_array": [
+                "TBD"
+            ], 
+            "facilitators": "TBD", 
+            "id": "10", 
+            "link": "", 
+            "location": "TBD", 
+            "start": "14:00", 
+            "tags": "", 
+            "timeblock": "friday-afternoon", 
+            "title": "­Afternoon sessions"
+        },
+        {
+            "category": "Food", 
+            "day": "Friday", 
+            "description": "", 
+            "facilitator_array": [
+                "Chef"
+            ], 
+            "facilitators": "Chef", 
+            "id": "12", 
+            "link": "", 
+            "location": "Goldhahnundsampson", 
+            "start": "19:00", 
+            "tags": "", 
+            "timeblock": "friday-evening", 
+            "title": "­Kitchen party"
+        },
+        {
+            "category": "Food", 
+            "day": "Saturday", 
+            "description": "", 
+            "facilitator_array": [
+                "TBD"
+            ], 
+            "facilitators": "TBD", 
+            "id": "13", 
+            "link": "", 
+            "location": "Betahaus­ Innovation room", 
+            "start": "09:00", 
+            "tags": "", 
+            "timeblock": "saturday-morning", 
+            "title": "­Breakfast"
+        },
+        {
+            "category": "Sessions", 
+            "day": "Saturday", 
+            "description": "", 
+            "facilitator_array": [
+                "TBD"
+            ], 
+            "facilitators": "TBD", 
+            "id": "14", 
+            "link": "", 
+            "location": "TBD", 
+            "start": "09:30", 
+            "tags": "", 
+            "timeblock": "saturday-morning", 
+            "title": "­Morning sessions"
+        },
+        {
+            "category": "Food", 
+            "day": "Saturday", 
+            "description": "", 
+            "facilitator_array": [
+                "TBD"
+            ], 
+            "facilitators": "TBD", 
+            "id": "15", 
+            "link": "", 
+            "location": "TBD", 
+            "start": "12:00", 
+            "tags": "", 
+            "timeblock": "saturday-afternoon", 
+            "title": "­Catered lunch"
+        },
+        {
+            "category": "Sessions", 
+            "day": "Saturday", 
+            "description": "", 
+            "facilitator_array": [
+                "TBD"
+            ], 
+            "facilitators": "TBD", 
+            "id": "16", 
+            "link": "", 
+            "location": "TBD", 
+            "start": "13:00", 
+            "tags": "", 
+            "timeblock": "saturday-afternoon", 
+            "title": "­Afternoon sessions"
+        },
+        {
+            "category": "Sessions", 
+            "day": "Saturday", 
+            "description": "", 
+            "facilitator_array": [
+                "TBD"
+            ], 
+            "facilitators": "TBD", 
+            "id": "17", 
+            "link": "", 
+            "location": "TBD", 
+            "start": "15:00", 
+            "tags": "", 
+            "timeblock": "saturday-afternoon", 
+            "title": "­Closing circle­"
+        },
+        {
+            "category": "Sessions", 
+            "day": "Saturday", 
+            "description": "", 
+            "facilitator_array": [
+                "TBD"
+            ], 
+            "facilitators": "TBD", 
+            "id": "18", 
+            "link": "", 
+            "location": "TBD", 
+            "start": "15:30", 
+            "tags": "", 
+            "timeblock": "saturday-afternoon", 
+            "title": "­Documentation, calendaring and triage"
+        },
+        {
+            "category": "Social", 
+            "day": "Saturday", 
+            "description": "", 
+            "facilitator_array": [
+                "TBD"
+            ], 
+            "facilitators": "TBD", 
+            "id": "19", 
+            "link": "", 
+            "location": "Prinzessinnengarten", 
+            "start": "17:30", 
+            "tags": "", 
+            "timeblock": "saturday-evening", 
+            "title": "­Drinks"
+        },
+        {
+            "category": "Social", 
+            "day": "Saturday", 
+            "description": "", 
+            "facilitator_array": [
+                "TBD"
+            ], 
+            "facilitators": "TBD", 
+            "id": "20", 
+            "link": "", 
+            "location": "TBD", 
+            "start": "19:00", 
+            "tags": "", 
+            "timeblock": "saturday-evening", 
+            "title": "­Evening event (optional)"
+        }
+    ], 
+    "timeblocks": [
+        {
+            "day": "Thursday", 
+            "key": "thursday-morning", 
+            "order": "1", 
+            "start time": "09:00", 
+            "timeblock name": "Thursday Morning"
+        }, 
+        {
+            "day": "Thursday", 
+            "key": "thursday-afternoon", 
+            "order": "2", 
+            "start time": "14:00", 
+            "timeblock name": "Thursday Afternoon"
+        }, 
+        {
+            "day": "Thursday", 
+            "key": "thursday-evening", 
+            "order": "3", 
+            "start time": "17:00", 
+            "timeblock name": "Thursday Evening"
+        },
+        {
+            "day": "Friday", 
+            "key": "friday-morning", 
+            "order": "4", 
+            "start time": "09:00", 
+            "timeblock name": "Friday Morning"
+        }, 
+        {
+            "day": "Friday", 
+            "key": "friday-afternoon", 
+            "order": "5", 
+            "start time": "14:00", 
+            "timeblock name": "Friday Afternoon"
+        }, 
+        {
+            "day": "Friday", 
+            "key": "friday-evening", 
+            "order": "6", 
+            "start time": "17:00", 
+            "timeblock name": "Friday Evening"
+        },
+        {
+            "day": "Saturday", 
+            "key": "saturday-morning", 
+            "order": "7", 
+            "start time": "09:00", 
+            "timeblock name": "Saturday Morning"
+        }, 
+        {
+            "day": "Saturday", 
+            "key": "saturday-afternoon", 
+            "order": "8", 
+            "start time": "14:00", 
+            "timeblock name": "Saturday Afternoon"
+        }, 
+        {
+            "day": "Saturday", 
+            "key": "saturday-evening", 
+            "order": "9", 
+            "start time": "17:00", 
+            "timeblock name": "Saturday Evening"
+        }
+    ]
+}

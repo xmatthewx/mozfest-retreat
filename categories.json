@@ -1,16 +1,23 @@
 [
   {
-    "name": "Italian",
+    "name": "Sessions",
     "description": [
-      "Italian cuisine Italian cuisine Italian cuisine Italian cuisine Italian cuisine Italian cuisine Italian cuisine Italian cuisine Italian cuisine Italian cuisine Italian cuisine Italian cuisine Italian cuisine Italian cuisine"
+      ""
     ],
-    "iconSrc": "http://www.mapsopensource.com/images/flag-of-italy.gif"
+    "iconSrc": "http://www.mapsopensource.com/images/flag-of-canada.gif"
   },
   {
-    "name": "Japanese",
+    "name": "Food",
     "description": [
-      "Japanese cuisine Japanese cuisine Japanese cuisine Japanese cuisine Japanese cuisine Japanese cuisine Japanese cuisine Japanese cuisine Japanese cuisine Japanese cuisine"
+      ""
     ],
-    "iconSrc": "http://www.mapsopensource.com/images/flag-of-japan.gif"
+    "iconSrc": "http://www.mapsopensource.com/images/flag-of-germany.gif"
+  },
+  {
+    "name": "Social",
+    "description": [
+      ""
+    ],
+    "iconSrc": "http://www.mapsopensource.com/images/flag-of-germany.gif"
   }
 ]
